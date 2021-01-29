@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AlienPingu</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate Jr. Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienpingu" alt="alienpingu" /> </p>
 
