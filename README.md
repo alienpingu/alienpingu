@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OPSEC**
 
-- 👨‍💻 All of my projects are available at [brtsml.com](brtsml.com)
+- 👨‍💻 All of my projects are available at [https://www.brtsml.com](brtsml.com)
 
 - 📫 How to reach me **samuele.bertocco@gmail.com**
 
