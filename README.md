@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienpingu" alt="alienpingu" /> </p>
 
-- 🔭 I’m currently working on **SeasonCycles and small project **
+- 🔭 I’m currently working on **SeasonCycles and small project**
 
 - 🌱 I’m currently learning **OPSEC**
 
