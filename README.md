@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienpingu" alt="alienpingu" /> </p>
 
-- 🔭 I’m currently working on **SeasonCycles and small project**
+- 🔭 I’m currently working with **CheckupDigitale**
 
-- 🌱 I’m currently learning **OPSEC**
+- 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://www.brtsml.com/project](https://www.brtsml.com/project)
+- 👨‍💻 All of my projects are available at [https://www.brtsml.com/](https://www.brtsml.com/)
 
 - 📫 How to reach me **brtsml@pm.me**
 
