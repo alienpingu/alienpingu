@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://www.brtsml.com/](https://www.brtsml.com/)
+- 👨‍💻 All of my projects are available at [my portfolio](http://alienpingu.github.io/)
 
 - 📫 How to reach me **brtsml@pm.me**
 
