@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienpingu" alt="alienpingu" /> </p>
 
-- 🌱 I’m currently learning **Hybris**
+- 🌱 I’m currently learning **Angular**
 
 - 👨🏻‍💻 Working as Jr. Full Stack Developer at [Sopra Steria](https://www.soprasteria.com/)
 
