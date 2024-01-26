@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨🏻‍💻 Working as Jr. Full Stack Developer at [Sopra Steria](https://www.soprasteria.com/)
+- 👨🏻‍💻 Working as Full Stack Developer at [Sopra Steria](https://www.soprasteria.com/)
 
-- 💾 All of my projects are available at [my portfolio](http://alienpingu.github.io/)
+- ❤ Take a moment for see [my portfolio](http://alienpingu.github.io/)
 
 - 📫 How to reach me **brtsml@pm.me**
 
