@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alienpingu" alt="alienpingu" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **ThreeJS**
 
 - 👨🏻‍💻 Working as Full Stack Developer at [Sopra Steria](https://www.soprasteria.com/)
 
