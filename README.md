@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ThreeJS**
 
-- 👨🏻‍💻 Working as Full Stack Developer at [Sopra Steria](https://www.soprasteria.com/)
+- 👨🏻‍💻 Working as Full Stack Developer
 
 - ❤ Take a moment for see [my portfolio](http://alienpingu.github.io/)
 
